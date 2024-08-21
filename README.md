@@ -19,6 +19,13 @@ Atualmente eu estou estudando front-end para depois partir para o back-end. </p>
 - 😄 Pronouns: Ele/dele
 
 
+<h1>Ferramentas que vão encontrar aqui🧰</h1>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+</ul>
 
 
 
@@ -38,4 +45,5 @@ Atualmente eu estou estudando front-end para depois partir para o back-end. </p>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandermashiba)](https://github.com/Alexandermashiba/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandermashiba&show_icons=true&bg_color=00000000)
